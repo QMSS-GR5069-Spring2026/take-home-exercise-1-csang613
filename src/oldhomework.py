@@ -95,4 +95,4 @@ extreme_sorted
 #verbal skills? Also none of these studens' GPA are above 2.8 and since
 #the 50th percentile of fy_gpa is 2.465, most of them are the bottom
 #half of this data sample, does that mean students with academic imbalance
-#would struggle more when they entered the college?
+#would struggle more when they entered the college?# Modified by Helle
